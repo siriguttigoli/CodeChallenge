@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CodeChallenge</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="network_error_msg">Please check your network
+        connection.</string>
+    <string name="network_error_title">Network unavailable</string>
+    <string name="dialog_ok">OK</string>
+    <string name="error_title">Problem</string>
+</resources>
